@@ -31,7 +31,7 @@ var destFolder = Folder.selectDialog( "请选择一个输出的文件夹：");
 //   ];
 
 
-//knituma
+//spritebuilder
 // var icons =
 // [ 
 //   {"name": "iTunesArtwork", "size":36.12}, 
@@ -56,7 +56,7 @@ var destFolder = Folder.selectDialog( "请选择一个输出的文件夹：");
 //   {"name": "AppIcon76x76@2x",  "size":5.36}
 //   ];
 
-//loh
+//unity
 
 // var icons =
 // [ 
@@ -82,7 +82,7 @@ var destFolder = Folder.selectDialog( "请选择一个输出的文件夹：");
 //   ];
 
 
-//奇葩三国 ios
+//cocosdx 2.2.6 ios
 
 // var icons =
 // [ 
@@ -107,8 +107,6 @@ var destFolder = Folder.selectDialog( "请选择一个输出的文件夹：");
 //   ];
 
 // cocos size表示的尺寸 厘米 cm
-
-
 // var icons =
 // [ 
 //   {"name": "iTunesArtwork", "size":36.12}, 
